@@ -1,0 +1,29 @@
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Malgun Gothic",sans-serif;
+  color:#1c2128;background:#f6f8fa;line-height:1.6;font-size:15px}
+header{background:#0d1117;color:#fff;padding:20px 24px}
+header a{color:#fff;text-decoration:none}
+header h1{margin:0;font-size:18px}
+header .sub{color:#9da7b3;font-size:12px;margin-top:4px}
+.wrap{max-width:820px;margin:0 auto;padding:24px 20px 80px}
+.card{background:#fff;border:1px solid #e3e6ea;border-radius:10px;padding:16px 18px;margin-bottom:14px}
+.card a{color:inherit;text-decoration:none}
+.card h3{margin:0 0 6px;font-size:17px}
+.badge{display:inline-block;padding:2px 9px;border-radius:10px;font-size:12px;font-weight:600;margin-right:6px}
+.badge.narr{border:1px dashed #b39ddb}
+.badge.trap{color:#fff;background:#a31515;border:none}
+.col-label{font-size:10px;color:#9da7b3;text-transform:uppercase;letter-spacing:.04em;margin-right:4px}
+.muted{color:#6e7781;font-size:13px}
+article h1{font-size:22px;border-bottom:1px solid #e3e6ea;padding-bottom:10px}
+article h2{font-size:16px;margin-top:24px;color:#24292f}
+article blockquote{margin:12px 0;padding:10px 14px;background:#fff8e6;border-left:4px solid #f0c674;
+  border-radius:4px;color:#6a5a2a;font-size:14px}
+article table{border-collapse:collapse;width:100%;margin:12px 0;font-size:14px}
+article th,article td{border:1px solid #e3e6ea;padding:6px 10px;text-align:left}
+article th{background:#f6f8fa}
+article code{background:#eef1f4;padding:1px 5px;border-radius:4px;font-size:13px}
+article li.task{list-style:none;margin-left:-20px}
+article hr{border:none;border-top:1px solid #e3e6ea;margin:20px 0}
+.disclaimer{background:#fdeaea;border:1px solid #f5c2c2;border-radius:8px;padding:12px 14px;
+  color:#a31515;font-size:13px;margin-bottom:18px}
+footer{color:#6e7781;font-size:12px;text-align:center;padding:24px}
